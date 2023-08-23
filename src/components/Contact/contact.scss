@@ -1,0 +1,29 @@
+.contact-page {
+  background-color: #6192a0;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.contact-txt {
+  width: 50%;
+  font-family: "Knewave", cursive;
+  color: antiquewhite;
+  font-size: xx-large;
+}
+
+.a-txt {
+  color: antiquewhite;
+  font-family: 'Bodoni Moda', serif;
+  text-decoration: underline;
+  color: rgb(0, 0, 255); 
+}
+
+@media only screen and (max-width: 450px) {
+  .contact-txt {
+    font-size: medium;
+    width: 80%;
+  }
+}
