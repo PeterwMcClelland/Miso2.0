@@ -83,7 +83,7 @@ li {
   text-align: start;
   padding: 10px;
   font-size: xx-large;
-  color: #6192a0;
+  color: ivory;
 }
 
 .img-jawny {
@@ -116,7 +116,7 @@ a {
 
 .artist-card {
   height: 625px;
-  border: 1px solid #ccc;
+  border: 1px transparent;
   margin-bottom: 10px;
   color: white;
   background-color: #2c2c2c;
@@ -168,7 +168,7 @@ h1 {
 }
 
 #button-blue:hover {
-  background-color: rgb(0, 132, 255);
+  background-color: #0084ff;
   transition: 0.3s;
   cursor: pointer;
 }
